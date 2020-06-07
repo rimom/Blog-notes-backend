@@ -17,7 +17,8 @@
         "symfony/security-csrf": "5.1.*",
         "symfony/twig-bundle": "5.1.*",
         "symfony/validator": "5.1.*",
-        "symfony/yaml": "5.1.*"
+        "symfony/yaml": "5.1.*",
+      "ext-soap": "*"
     },
     "require-dev": {
         "doctrine/doctrine-fixtures-bundle": "^3.3",
